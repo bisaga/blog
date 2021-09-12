@@ -5,7 +5,3 @@ baseurl: ""
 url: ""
 twitter_username: ""
 github_username: bisaga
-
-# build settings
-plugins:
- -  jekyll-feed
