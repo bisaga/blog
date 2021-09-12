@@ -14,7 +14,8 @@ description: "Just another blog site about programming" # This will show up in p
 #########################################################################################
 # theme: jekyll-theme-midnight
 theme: minima
-permalink: /:title/
+# permalink: /:title/
+permalink: pretty
 # baseurl: "/blog"
 rss: rss
 
