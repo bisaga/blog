@@ -1,3 +1,4 @@
+theme: jekyll-theme-modernist
 title: Bisaga Blog
 email: igor.babic@bisaga.com
 baseurl: ""
@@ -6,6 +7,5 @@ twitter_username: ""
 github_username: bisaga
 
 # build settings
-theme: jekyll-theme-modernist
 plugins:
  -  jekyll-feed
