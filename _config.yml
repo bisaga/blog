@@ -1,1 +1,6 @@
 theme: jekyll-theme-modernist
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: false
+  
