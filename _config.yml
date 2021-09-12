@@ -12,7 +12,8 @@ description: "Just another blog site about programming" # This will show up in p
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: minima
 
 rss: rss
 
