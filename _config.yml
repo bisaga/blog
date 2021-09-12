@@ -1,8 +1,7 @@
 theme: jekyll-theme-modernist
 baseurl: ""
 url:"/blog"
-readme_index:
-  enabled:          true
-  remove_originals: true
-  with_frontmatter: false
-  
+github_username: bisaga
+plugins:
+ -  jekyll-feed
+ 
