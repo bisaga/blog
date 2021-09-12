@@ -69,7 +69,7 @@ As you can see, we already initialized one sample command here, "GreetCommand", 
 
 My silex application is as simple as it can be. The best in using micro-framework is that there is no forced structure from framework. We can create our own folder structure, so my is something like that:
 
-[![2015-11-15 20_22_50-Programmer's Notepad - [console]](/assets/images/2015-11-15-20_22_50-Programmers-Notepad-console-172x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-15-20_22_50-Programmers-Notepad-console.png)
+[![2015-11-15 20_22_50-Programmer's Notepad - [console]](assets/images/2015-11-15-20_22_50-Programmers-Notepad-console-172x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-15-20_22_50-Programmers-Notepad-console.png)
 
 My  folder structure is not yet complete, it will evolve as application grows.
 
@@ -145,7 +145,7 @@ For checking which commands are already initialized in the application, we execu
 
 H:\\Ampps\\www\\silex03>console list
 
-[![2015-11-15 21_00_19-Command Prompt](/assets/images/2015-11-15-21_00_19-Command-Prompt-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-15-21_00_19-Command-Prompt.png)
+[![2015-11-15 21_00_19-Command Prompt](assets/images/2015-11-15-21_00_19-Command-Prompt-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-15-21_00_19-Command-Prompt.png)
 
 That's it !
 

@@ -16,7 +16,7 @@ tags:
 
 To be productive as a programmer the write/run/debug cycle should be as fast as possible.
 
-Because I am a little spoiled by angular-cli setup for client side web development I search for similar experience in the server side. It means that transpiling the typescript to javascript and node server restarts should be automatic and with hassle free debugging. [![](/assets/images/write_run_debug_cylce.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/write_run_debug_cylce.png)
+Because I am a little spoiled by angular-cli setup for client side web development I search for similar experience in the server side. It means that transpiling the typescript to javascript and node server restarts should be automatic and with hassle free debugging. [![](assets/images/write_run_debug_cylce.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/write_run_debug_cylce.png)
 
 ## Install prerequisites
 
@@ -43,7 +43,7 @@ Server application is running in completely different project (folder) as angula
 
 The server folder contains this base structure:
 
-[![](/assets/images/2017-08-24-00_35_19-index.ts-—-wodia-node-—-Visual-Studio-Code-260x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-24-00_35_19-index.ts-—-wodia-node-—-Visual-Studio-Code.png)
+[![](assets/images/2017-08-24-00_35_19-index.ts-—-wodia-node-—-Visual-Studio-Code-260x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-24-00_35_19-index.ts-—-wodia-node-—-Visual-Studio-Code.png)
 
 I created **src** sub-folder where all source files will reside. For now I put index.ts file in it.
 
@@ -141,7 +141,7 @@ When you want to terminate the task, it means that stop will terminate the tsc i
 
 If you close the editor with **File/Exit** , the program should also ask to terminate still running task.
 
-[![](/assets/images/2017-10-05-22_26_02-tasks.json-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-22_26_02-tasks.json-database-Visual-Studio-Code.png)
+[![](assets/images/2017-10-05-22_26_02-tasks.json-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-22_26_02-tasks.json-database-Visual-Studio-Code.png)
 
 If you omit "promptOnClose" setting you will not be interrupted at the exit from the editor and the processes will close as expected.
 
@@ -165,7 +165,7 @@ Find command (F1)  "**Open keyboard shortcuts file**" and add definition to it.
     }
 \]
 
-Press F1 and search for keyboard ... [![](/assets/images/2017-10-05-22_18_55-tasks.json-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-22_18_55-tasks.json-database-Visual-Studio-Code.png)The file is located in the Roaming folder in usual windows users location.
+Press F1 and search for keyboard ... [![](assets/images/2017-10-05-22_18_55-tasks.json-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-22_18_55-tasks.json-database-Visual-Studio-Code.png)The file is located in the Roaming folder in usual windows users location.
 
  
 
@@ -192,11 +192,11 @@ To intercept debug breakpoints in code you need to attach to running node proces
 
 Start debugging with "Attach by Process ID" configuration, then select the running **node server instance** . You can use **F5 key** when staying in the source file.
 
-[![](/assets/images/2017-08-23-23_42_42-Greenshot-image-editor-300x73.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-23-23_42_42-Greenshot-image-editor.png)
+[![](assets/images/2017-08-23-23_42_42-Greenshot-image-editor-300x73.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-23-23_42_42-Greenshot-image-editor.png)
 
 Now execution should stop at defined breakpoints as expected.
 
-[![](/assets/images/2017-08-23-23_44_34-Windows-Shell-Experience-Host-300x181.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-23-23_44_34-Windows-Shell-Experience-Host.png)
+[![](assets/images/2017-08-23-23_44_34-Windows-Shell-Experience-Host-300x181.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-23-23_44_34-Windows-Shell-Experience-Host.png)
 
 Debugging **doesn't stop** the tsc & nodemon processes ! In fact you are only attached to your running server process. If you detach from it, you will be able to work forward as you never dive into debugging.  If you change any typescript file and save the file, watchers will detect change and restart all processes. Though you will be automatically detached from the debugging session.
 
@@ -275,7 +275,7 @@ And the user settings for vscode :
 
 ## Installed visual studio code extensions
 
-[![](/assets/images/2017-10-05-21_50_34-database-Visual-Studio-Code-300x270.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-21_50_34-database-Visual-Studio-Code.png) 
+[![](assets/images/2017-10-05-21_50_34-database-Visual-Studio-Code-300x270.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-05-21_50_34-database-Visual-Studio-Code.png) 
 
 ## Setup GIT BASH as internal terminal inside code
 
@@ -325,6 +325,6 @@ Don't forget to define .bash\_profile file in the **shell arguments**.
 
 After everything is properly set up you will be able to use internal projects node programs directly from the command line:
 
-[![](/assets/images/2017-10-11-22_53_54-.bash_profile-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-11-22_53_54-.bash_profile-database-Visual-Studio-Code.png)
+[![](assets/images/2017-10-11-22_53_54-.bash_profile-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-10-11-22_53_54-.bash_profile-database-Visual-Studio-Code.png)
 
 How to setup git to run with ssh I described [here](http://bisaga.com/blog/programming/angular-and-git-project-setup/).

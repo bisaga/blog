@@ -19,7 +19,7 @@ tags:
 
 What I wish to accomplish is to enable edit function on the currency list component.  Button "Add" will open editing panel, after saving changes the  editing panel will close.
 
-[![](/assets/images/listedit-300x128.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/listedit.png)
+[![](assets/images/listedit-300x128.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/listedit.png)
 
 _The [Pencil](http://pencil.evolus.vn/Default.html) open source product is used for GUI prototyping._
 
@@ -259,15 +259,15 @@ I just open the curly brackets after the [fat arrow](https://basarat.gitbooks.io
 
 If you click on the "Add" button, the edit form will open and you will be able to add new record to the list.
 
-[![](/assets/images/2017-07-26-23_23_32-AngularMyApp-300x108.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_23_32-AngularMyApp.png)
+[![](assets/images/2017-07-26-23_23_32-AngularMyApp-300x108.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_23_32-AngularMyApp.png)
 
 Edit form will show only input fields enabled for edit (no "Id" field for example).
 
-[![](/assets/images/2017-07-26-23_23_47-AngularMyApp-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_23_47-AngularMyApp.png)
+[![](assets/images/2017-07-26-23_23_47-AngularMyApp-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_23_47-AngularMyApp.png)
 
 If you click on the pencil button on a specific row, you open the edit form with the selected data. You can then save or cancel changes. After the action, the edit form is closed (removed from the DOM because of \*ngIf directive), and the data are refreshed automatically.
 
-[![](/assets/images/2017-07-26-23_24_03-AngularMyApp-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_24_03-AngularMyApp.png)
+[![](assets/images/2017-07-26-23_24_03-AngularMyApp-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-26-23_24_03-AngularMyApp.png)
 
 Of course this is only a "TODO" like application and intentionally I didn't put router into it to remain as simple as possible.
 

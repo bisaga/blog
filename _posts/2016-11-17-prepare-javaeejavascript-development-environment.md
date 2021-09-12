@@ -97,7 +97,7 @@ Java Options:
 
 **Screen captures:**
 
-[![2016-11-21-21_16_07-c__programs_apache-tomee-plume-7-0-2_bin](/assets/images/2016-11-21-21_16_07-C__Programs_apache-tomee-plume-7.0.2_bin-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_07-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_16_30-c__programs_apache-tomee-plume-7-0-2_bin](/assets/images/2016-11-21-21_16_30-C__Programs_apache-tomee-plume-7.0.2_bin-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_30-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_16_56-apache-tomee-properties](/assets/images/2016-11-21-21_16_56-Apache-TomEE-Properties-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_56-Apache-TomEE-Properties.png) [![2016-11-21-21_17_10-c__programs_apache-tomee-plume-7-0-2_bin](/assets/images/2016-11-21-21_17_10-C__Programs_apache-tomee-plume-7.0.2_bin-295x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_10-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_17_24-apache-tomee-properties](/assets/images/2016-11-21-21_17_24-Apache-TomEE-Properties-297x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_24-Apache-TomEE-Properties.png) [![2016-11-21-21_17_35-c__programs_apache-tomee-plume-7-0-2_bin](/assets/images/2016-11-21-21_17_35-C__Programs_apache-tomee-plume-7.0.2_bin-295x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_35-C__Programs_apache-tomee-plume-7.0.2_bin.png)If service didn't want to start as service (windows/services), check log files and react accordingly.
+[![2016-11-21-21_16_07-c__programs_apache-tomee-plume-7-0-2_bin](assets/images/2016-11-21-21_16_07-C__Programs_apache-tomee-plume-7.0.2_bin-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_07-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_16_30-c__programs_apache-tomee-plume-7-0-2_bin](assets/images/2016-11-21-21_16_30-C__Programs_apache-tomee-plume-7.0.2_bin-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_30-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_16_56-apache-tomee-properties](assets/images/2016-11-21-21_16_56-Apache-TomEE-Properties-296x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_16_56-Apache-TomEE-Properties.png) [![2016-11-21-21_17_10-c__programs_apache-tomee-plume-7-0-2_bin](assets/images/2016-11-21-21_17_10-C__Programs_apache-tomee-plume-7.0.2_bin-295x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_10-C__Programs_apache-tomee-plume-7.0.2_bin.png) [![2016-11-21-21_17_24-apache-tomee-properties](assets/images/2016-11-21-21_17_24-Apache-TomEE-Properties-297x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_24-Apache-TomEE-Properties.png) [![2016-11-21-21_17_35-c__programs_apache-tomee-plume-7-0-2_bin](assets/images/2016-11-21-21_17_35-C__Programs_apache-tomee-plume-7.0.2_bin-295x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-21_17_35-C__Programs_apache-tomee-plume-7.0.2_bin.png)If service didn't want to start as service (windows/services), check log files and react accordingly.
 
 ### Correct IDE proxy setting in server properties
 
@@ -143,7 +143,7 @@ Download binary distribution file of [gradle](https://gradle.org/gradle-download
 
 In the Netbeans go to Tools/Plugins and install gradle plugin.  After netbeans restart go to Tools/Options/Miscellaneous/Gradle in in Gradle Installation change gradle installation directory to local folder to where you install gradle before. Put same folder for gradle home directory to.
 
-## [![2016-11-21-23_27_41-helloworld-netbeans-ide-8-2](/assets/images/2016-11-21-23_27_41-HelloWorld-NetBeans-IDE-8.2-300x223.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-23_27_41-HelloWorld-NetBeans-IDE-8.2.png)
+## [![2016-11-21-23_27_41-helloworld-netbeans-ide-8-2](assets/images/2016-11-21-23_27_41-HelloWorld-NetBeans-IDE-8.2-300x223.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-21-23_27_41-HelloWorld-NetBeans-IDE-8.2.png)
 
 ## Flyway database migrations tool
 
@@ -191,7 +191,7 @@ If any part of the path is not properly converted to **/cygdrive/** mappings, yo
 
 This plugin enable shortcut keys to change current folder in already open terminal in to the node's directory (with **Alt+.**)
 
-[![2016-11-23-00_53_54-plugins](/assets/images/2016-11-23-00_53_54-Plugins-300x211.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-23-00_53_54-Plugins.png)To be able to change current folder with "Alt+." command you need to have:
+[![2016-11-23-00_53_54-plugins](assets/images/2016-11-23-00_53_54-Plugins-300x211.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-23-00_53_54-Plugins.png)To be able to change current folder with "Alt+." command you need to have:
 
 - Opened local "Terminal" window
 - selected node in the project tree (any node)

@@ -32,13 +32,13 @@ $ ng g c currency-list
 
 Result of the command in the terminal window will look something like this:
 
-[![](/assets/images/2017-06-27-22_33_01-AngularMyApp-—-Visual-Studio-Code-300x81.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-22_33_01-AngularMyApp-—-Visual-Studio-Code.png)The **app.module** file is updated automatically and new component is registered to angular application:
+[![](assets/images/2017-06-27-22_33_01-AngularMyApp-—-Visual-Studio-Code-300x81.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-22_33_01-AngularMyApp-—-Visual-Studio-Code.png)The **app.module** file is updated automatically and new component is registered to angular application:
 
 import { CurrencyListComponent } from './currency-list/currency-list.component';
 
 The result in the project folder hierarchy shown new sub-folder "currency-list" with all corresponding  files:
 
-[![](/assets/images/2017-06-27-22_36_16-AngularMyApp-—-Visual-Studio-Code-228x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-22_36_16-AngularMyApp-—-Visual-Studio-Code.png)Open app.component.html and replace generated content with new component tag like:
+[![](assets/images/2017-06-27-22_36_16-AngularMyApp-—-Visual-Studio-Code-228x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-22_36_16-AngularMyApp-—-Visual-Studio-Code.png)Open app.component.html and replace generated content with new component tag like:
 
 <app-currency-list></app-currency-list>
 
@@ -48,7 +48,7 @@ ng serve
 
 And navigate to http://localhost:4200 :
 
-[![](/assets/images/2017-06-27-23_30_26-AngularMyApp-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-23_30_26-AngularMyApp.png)Yeah, that was easy.
+[![](assets/images/2017-06-27-23_30_26-AngularMyApp-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-27-23_30_26-AngularMyApp.png)Yeah, that was easy.
 
 ### Proxy to java embedded server
 
@@ -210,4 +210,4 @@ In the template we use for each directive "\*ngFor" and loop over array of ICurr
 
 The result of this very simple angular list component is:
 
-[![](/assets/images/2017-07-06-23_25_13-AngularMyApp-300x103.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-07-06-23_25_13-AngularMyApp.png)
+[![](assets/images/2017-07-06-23_25_13-AngularMyApp-300x103.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-07-06-23_25_13-AngularMyApp.png)

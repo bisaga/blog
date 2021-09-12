@@ -60,15 +60,15 @@ You can put program file to any folder. If folder is not under "public\_html" fo
 
 In the "cPanel" locate "Advanced" section and select "Cron Jobs":
 
-[![2015-10-22 22_42_41-cPanel - Main](/assets/images/2015-10-22-22_42_41-cPanel-Main-300x80.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-22-22_42_41-cPanel-Main.png)Create new job with a one minute frequency as:
+[![2015-10-22 22_42_41-cPanel - Main](assets/images/2015-10-22-22_42_41-cPanel-Main-300x80.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-22-22_42_41-cPanel-Main.png)Create new job with a one minute frequency as:
 
 /usr/local/bin/php "$HOME/jobs/taskrun.php" > /dev/null 2>&1
 
 To prevent email to be sent for each iteration, we put redirection into the command ( **> /dev/null 2>&1** ).
 
-[![2015-10-22 22_45_26-cPanel - Cron Jobs](/assets/images/2015-10-22-22_45_26-cPanel-Cron-Jobs-300x41.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-22-22_45_26-cPanel-Cron-Jobs.png)Wait a minute and check if there are some records in the "tasklog" table. You will see something like this:
+[![2015-10-22 22_45_26-cPanel - Cron Jobs](assets/images/2015-10-22-22_45_26-cPanel-Cron-Jobs-300x41.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-22-22_45_26-cPanel-Cron-Jobs.png)Wait a minute and check if there are some records in the "tasklog" table. You will see something like this:
 
-[![2015-10-23 00_10_00-n1plcpnl0026.prod.ams1.secureserver.net _ localhost _ bisagasamples _ tasklog _](/assets/images/2015-10-23-00_10_00-n1plcpnl0026.prod_.ams1_.secureserver.net-_-localhost-_-bisagasamples-_-tasklog-_--300x279.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-23-00_10_00-n1plcpnl0026.prod_.ams1_.secureserver.net-_-localhost-_-bisagasamples-_-tasklog-_-.png)
+[![2015-10-23 00_10_00-n1plcpnl0026.prod.ams1.secureserver.net _ localhost _ bisagasamples _ tasklog _](assets/images/2015-10-23-00_10_00-n1plcpnl0026.prod_.ams1_.secureserver.net-_-localhost-_-bisagasamples-_-tasklog-_--300x279.png)](http://bisaga.com/blog/wp-content/uploads/2015/10/2015-10-23-00_10_00-n1plcpnl0026.prod_.ams1_.secureserver.net-_-localhost-_-bisagasamples-_-tasklog-_-.png)
 
 Success !
 

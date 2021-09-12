@@ -17,7 +17,7 @@ Thanks to this [wonderful extension](https://github.com/ladariha/PolymerForNB) I
 
 Because I use maven project type and netbeans , there is no ".nbproject" folder. In that case the "customs.json" file must be present in src/main/webapp folder.
 
-[![2016-12-10-11_08_11](/assets/images/2016-12-10-11_08_11--300x240.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2016-12-10-11_08_11-.png)
+[![2016-12-10-11_08_11](assets/images/2016-12-10-11_08_11--300x240.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2016-12-10-11_08_11-.png)
 
 ### Recreate new version of customs.json
 

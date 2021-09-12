@@ -98,4 +98,4 @@ Inside Netbeans, open the terminal and type jooq command, you should be in proje
 
 Jooq will generate code for all your tables. You will find new files in packages with name "\*.generated.\*" :
 
-[![2016-11-25-17_44_00-start](/assets/images/2016-11-25-17_44_00-Start-241x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-25-17_44_00-Start.png)
+[![2016-11-25-17_44_00-start](assets/images/2016-11-25-17_44_00-Start-241x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-25-17_44_00-Start.png)

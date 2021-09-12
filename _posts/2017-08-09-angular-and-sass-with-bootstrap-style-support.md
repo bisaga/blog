@@ -75,7 +75,7 @@ Now add a paragraph with "mytitle" class to your index.html :
 
 If everything works  as expected you will see a test paragraph with correct font and weight as defined by scss:
 
-[![](/assets/images/2017-08-09-20_52_45-AngularMyApp-300x138.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-20_52_45-AngularMyApp.png)
+[![](assets/images/2017-08-09-20_52_45-AngularMyApp-300x138.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-20_52_45-AngularMyApp.png)
 
 Scss compiler create proper CSS definition and angular with webpack create styles.bundle.js file where we can find our "mytitle" class defined as :
 
@@ -88,7 +88,7 @@ I am changing my existing seed project so you can get [source code](https://gith
 
 Immediately after changing style definition to SCSS in our project, we lost all bootstrap CSS formating and the page looks like :
 
-[![](/assets/images/2017-08-09-22_10_18-AngularMyApp-300x189.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_10_18-AngularMyApp.png)
+[![](assets/images/2017-08-09-22_10_18-AngularMyApp-300x189.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_10_18-AngularMyApp.png)
 
 As we see from the screen above, there is no bootstrap formatting anymore, buttons are missing images (font\_awesome as part of bootstrap also missing).
 
@@ -98,22 +98,22 @@ First we create new custom variables file and copy  all bootstrap theme variabl
 
 Create new file "\_custom\_variables.scss" and copy content of the bootstrap \_variables.scss file into it or just copy a file into your scss folder. All files named with underscore are meant to be imported in another scss file by the Sass standard. Files without underscore are compiled to CSS format.
 
-$cp node\_modules/bootstrap-sass/assets/stylesheets/bootstrap/\_variables.scss src/assets/scss/\_custom\_variables.scss
+$cp node\_modules/bootstrap-sassassets/stylesheets/bootstrap/\_variables.scss srcassets/scss/\_custom\_variables.scss
 
 Now we import bootstrap and you variables file into main.scss file:
 
 // Sass compiler need information where icons/fonts are with absolute path definition, tilde character (~) works from any project folder  
-$icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+$icon-font-path: '~bootstrap-sassassets/fonts/bootstrap/';
 
 @import "\_custom\_variables.scss";
-@import "~bootstrap-sass/assets/stylesheets/\_bootstrap.scss";
+@import "~bootstrap-sassassets/stylesheets/\_bootstrap.scss";
 
 If everything works as expected we will get our original bootstrap design back and we can start modifying it, for example we will change primary button color to red. Change variable  $brand-primary in the file \_custom\_variables.scss to red color:
 
-[![](/assets/images/2017-08-09-22_22_29-_custom_variables.scss-—-AngularMyApp-—-Visual-Studio-Code-300x235.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_22_29-_custom_variables.scss-—-AngularMyApp-—-Visual-Studio-Code.png)
+[![](assets/images/2017-08-09-22_22_29-_custom_variables.scss-—-AngularMyApp-—-Visual-Studio-Code-300x235.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_22_29-_custom_variables.scss-—-AngularMyApp-—-Visual-Studio-Code.png)
 
 And the result should be visible immediately on the screen :
 
-[![](/assets/images/2017-08-09-22_18_54-AngularMyApp-300x75.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_18_54-AngularMyApp.png)
+[![](assets/images/2017-08-09-22_18_54-AngularMyApp-300x75.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-09-22_18_54-AngularMyApp.png)
 
 The button defined in the currency-list component with the class "btn-primary"  is now red as expected.

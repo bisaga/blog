@@ -162,4 +162,4 @@ For successful execution of any flyway command we need to be in proper folder fi
 
 Don't forget to install "TerminalExtras" plugin for Netbeans, then you can just press **Alt+.** when you staying on the project root node. Change directory (cd) command will be executed inside terminal window and focus will be set to terminal window.
 
-[![2016-11-23-00_56_35-helloworld-netbeans-ide-8-2](/assets/images/2016-11-23-00_56_35-HelloWorld-NetBeans-IDE-8.2-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-23-00_56_35-HelloWorld-NetBeans-IDE-8.2.png)
+[![2016-11-23-00_56_35-helloworld-netbeans-ide-8-2](assets/images/2016-11-23-00_56_35-HelloWorld-NetBeans-IDE-8.2-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-23-00_56_35-HelloWorld-NetBeans-IDE-8.2.png)

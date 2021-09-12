@@ -24,7 +24,7 @@ If you need some specific information about bootstrap you can probably found it 
 
 After some experimentation I create something like that:
 
-[![2015-12-06 12_18_10-Dashboard - Bisaga Worklog](/assets/images/2015-12-06-12_18_10-Dashboard-Bisaga-Worklog-300x107.png)](http://bisaga.com/blog/wp-content/uploads/2015/12/2015-12-06-12_18_10-Dashboard-Bisaga-Worklog.png)
+[![2015-12-06 12_18_10-Dashboard - Bisaga Worklog](assets/images/2015-12-06-12_18_10-Dashboard-Bisaga-Worklog-300x107.png)](http://bisaga.com/blog/wp-content/uploads/2015/12/2015-12-06-12_18_10-Dashboard-Bisaga-Worklog.png)
 
 Main navigation bar at the top is always visible even when we scroll down beyond visible space (navbar-fixed-top). This require little additional CSS settings that our pages on the top has some default margin.
 
@@ -47,7 +47,7 @@ One part of template looks like:
         <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
             <div class="navbar-header">
                 <a class="navbar-brand" href="{{app.request.basepath}}/index.php">
-                    <img alt="Bisaga" src="{{app.request.basepath}}//assets/images/w24x24.png"/>
+                    <img alt="Bisaga" src="{{app.request.basepath}}/assets/images/w24x24.png"/>
                 </a>
             </div>
             <div>    
