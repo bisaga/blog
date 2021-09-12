@@ -58,4 +58,4 @@ Welcome to your new app.
 
 If everything is deployed as expected you should see similar result page:
 
-![](/assets/images/2019-07-07-23_31_02-WebApplication1.png)
+![](images/2019-07-07-23_31_02-WebApplication1.png)

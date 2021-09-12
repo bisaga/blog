@@ -56,4 +56,4 @@ Simply use bootstrap class directives in your templates, partial template code:
 
 And the result of the example :
 
-[![](/assets/images/2017-07-06-08_36_38-AngularMyApp-300x109.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-06-08_36_38-AngularMyApp.png)
+[![](images/2017-07-06-08_36_38-AngularMyApp-300x109.png)](http://bisaga.com/blog/wp-content/uploads/2017/07/2017-07-06-08_36_38-AngularMyApp.png)

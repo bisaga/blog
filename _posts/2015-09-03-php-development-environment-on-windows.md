@@ -23,11 +23,11 @@ If you already have **any other server/service on port 80** (like IIS for exampl
 
 After successful installation, you start server and with little luck, you will see next screen:
 
-![2015-09-03 22_09_11-Softaculous AMPPS](/assets/images/2015-09-03-22_09_11-Softaculous-AMPPS-300x243.png)
+![2015-09-03 22_09_11-Softaculous AMPPS](images/2015-09-03-22_09_11-Softaculous-AMPPS-300x243.png)
 
 Navigate to http://localhost/ampps and you will get administration interface:
 
-[![2015-09-03 22_42_46-AMPPS - Powered by Softaculous - Opera](/assets/images/2015-09-03-22_42_46-AMPPS-Powered-by-Softaculous-Opera-245x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-22_42_46-AMPPS-Powered-by-Softaculous-Opera.png)
+[![2015-09-03 22_42_46-AMPPS - Powered by Softaculous - Opera](images/2015-09-03-22_42_46-AMPPS-Powered-by-Softaculous-Opera-245x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-22_42_46-AMPPS-Powered-by-Softaculous-Opera.png)
 
 ### PHP and command line support
 
@@ -37,7 +37,7 @@ Check php version:
 
 H:\\PHP>php -v
 
-[![2015-09-03 23_43_04-Command Prompt](/assets/images/2015-09-03-23_43_04-Command-Prompt-300x130.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-23_43_04-Command-Prompt.png)
+[![2015-09-03 23_43_04-Command Prompt](images/2015-09-03-23_43_04-Command-Prompt-300x130.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-23_43_04-Command-Prompt.png)
 
 ### Composer
 
@@ -47,7 +47,7 @@ Check composer version:
 
 H:\\PHP>composer -v
 
-[![2015-09-03 23_41_27-Command Prompt](/assets/images/2015-09-03-23_41_27-Command-Prompt-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-23_41_27-Command-Prompt.png)
+[![2015-09-03 23_41_27-Command Prompt](images/2015-09-03-23_41_27-Command-Prompt-300x155.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-03-23_41_27-Command-Prompt.png)
 
  
 
@@ -61,17 +61,17 @@ Just install "HTML5 & PHP only" edition, you will get smaller and faster IDE.  
 
 Open Netbeans IDE add new project (File/New project) :
 
-[![2015-09-04 00_13_39-New Project](/assets/images/2015-09-04-00_13_39-New-Project-300x191.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_13_39-New-Project.png)
+[![2015-09-04 00_13_39-New Project](images/2015-09-04-00_13_39-New-Project-300x191.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_13_39-New-Project.png)
 
 Put your new project directly to local web server folder (C:\\ampps\\Ampps\\www\\**project\_folder**) and put netbeans specific metadata (project management) files to separate directory. This way, your code in web server, will stay clean and ready to upload to hosting server.
 
-[![2015-09-04 00_15_20-New PHP Project](/assets/images/2015-09-04-00_15_20-New-PHP-Project-300x197.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_15_20-New-PHP-Project.png)
+[![2015-09-04 00_15_20-New PHP Project](images/2015-09-04-00_15_20-New-PHP-Project-300x197.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_15_20-New-PHP-Project.png)
 
 In this step, you select deployment method. Actually, there is no deployment at all, we run project directly from local web server.
 
-[![2015-09-04 00_15_35-New PHP Project](/assets/images/2015-09-04-00_15_35-New-PHP-Project-300x175.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_15_35-New-PHP-Project.png)Other options are not required , so we finish  project creation procedure.
+[![2015-09-04 00_15_35-New PHP Project](images/2015-09-04-00_15_35-New-PHP-Project-300x175.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_15_35-New-PHP-Project.png)Other options are not required , so we finish  project creation procedure.
 
-[![2015-09-04 00_18_12-NetBeans Platform 8.0.2](/assets/images/2015-09-04-00_18_12-NetBeans-Platform-8.0.2-300x225.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_18_12-NetBeans-Platform-8.0.2.png)
+[![2015-09-04 00_18_12-NetBeans Platform 8.0.2](images/2015-09-04-00_18_12-NetBeans-Platform-8.0.2-300x225.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_18_12-NetBeans-Platform-8.0.2.png)
 
 Put some code inside php tag in index.php file, for example something like that:
 
@@ -85,10 +85,10 @@ http://localhost/webapp01/index.php
 
 And result of this first simple application in browser is :
 
-[![2015-09-04 00_35_38-localhost_webapp01_index.php - Opera](/assets/images/2015-09-04-00_35_38-localhost_webapp01_index.php-Opera-300x229.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_35_38-localhost_webapp01_index.php-Opera.png)
+[![2015-09-04 00_35_38-localhost_webapp01_index.php - Opera](images/2015-09-04-00_35_38-localhost_webapp01_index.php-Opera-300x229.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-00_35_38-localhost_webapp01_index.php-Opera.png)
 
 ### Netbeans plugins - [QuickOpener](https://github.com/dzsessona/QuickOpener-NetBeans/wiki/Overview)
 
 The most important feature for me is ability to open OS shell (DOS command window) on the location of the selected file. Select a file in project tree inside netbeans and  hit **Alt+1**.
 
-[![2015-09-07 22_58_41-C__Windows_system32_cmd.exe](/assets/images/2015-09-07-22_58_41-C__Windows_system32_cmd.exe_-300x246.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-22_58_41-C__Windows_system32_cmd.exe_.png)Not to rely too much on IDE is important to me. Many features in web development require command line interface and easy access to command line, directly from the project tree, is very important.
+[![2015-09-07 22_58_41-C__Windows_system32_cmd.exe](images/2015-09-07-22_58_41-C__Windows_system32_cmd.exe_-300x246.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-22_58_41-C__Windows_system32_cmd.exe_.png)Not to rely too much on IDE is important to me. Many features in web development require command line interface and easy access to command line, directly from the project tree, is very important.

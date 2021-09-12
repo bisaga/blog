@@ -29,7 +29,7 @@ This sample application will integrate quite a few very nice open source tools a
 
 The application will consist of many modules :
 
-[![](/assets/images/big_picture-1.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/big_picture-1.png)
+[![](images/big_picture-1.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/big_picture-1.png)
 
 ## Postgresql - database
 
@@ -41,7 +41,7 @@ C:\\Program Files\\PostgreSQL\\9.6\\bin\\pg\_restore.exe --host "localhost" --po
 
 Sakila sample database is open source demo database and represent [database model](http://www.postgresqltutorial.com/postgresql-sample-database/) of DVD rental store. It  consist of  15 relational tables, 7 views and few other database details and it's full of data.
 
-[![](/assets/images/2017-10-25-00_28_31-sakila.png-PNG-Image-1219-×-805-pixels.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-25-00_28_31-sakila.png-PNG-Image-1219-×-805-pixels.png)
+[![](images/2017-10-25-00_28_31-sakila.png-PNG-Image-1219-×-805-pixels.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-25-00_28_31-sakila.png-PNG-Image-1219-×-805-pixels.png)
 
 Well that's database with full of test data for development environment. If we need empty database (for production for example) we need to start initialization DDL script to build the database.
 
@@ -74,7 +74,7 @@ After restoring the database with test data in it we need to "baseline" initial 
 
 With the baseline command we agree that the migration is not needed and you mark the migration version as migrated.
 
-[![](/assets/images/2017-10-28-00_32_51-MINGW64__c_Bisaga_Workspaces_sakilaweb_server.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-28-00_32_51-MINGW64__c_Bisaga_Workspaces_sakilaweb_server.png)
+[![](images/2017-10-28-00_32_51-MINGW64__c_Bisaga_Workspaces_sakilaweb_server.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-28-00_32_51-MINGW64__c_Bisaga_Workspaces_sakilaweb_server.png)
 
  
 
@@ -84,7 +84,7 @@ In the IDE (IntelliJ IDEA Community 2017.2) create new console type project "sak
 
 Setup git-bash terminal as default intellij terminal
 
-[![](/assets/images/2017-10-26-20_58_48-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-20_58_48-Settings.png)
+[![](images/2017-10-26-20_58_48-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-20_58_48-Settings.png)
 
 ### Jooq - object oriented querying
 
@@ -167,17 +167,17 @@ After code was successfully generated in the "./database" folder you will get a 
 
 The project with generated code will now look like :
 
-[![](/assets/images/2017-10-26-21_19_08-server-C__Bisaga_Workspaces_sakilaweb_server-IntelliJ-IDEA-2017.2.5.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_19_08-server-C__Bisaga_Workspaces_sakilaweb_server-IntelliJ-IDEA-2017.2.5.png)
+[![](images/2017-10-26-21_19_08-server-C__Bisaga_Workspaces_sakilaweb_server-IntelliJ-IDEA-2017.2.5.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_19_08-server-C__Bisaga_Workspaces_sakilaweb_server-IntelliJ-IDEA-2017.2.5.png)
 
 ### Setup Dagger 2
 
 Configure IDEA for annotations processor.
 
-[![](/assets/images/2017-10-26-21_21_29-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_21_29-Settings.png)
+[![](images/2017-10-26-21_21_29-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_21_29-Settings.png)
 
 Add dagger dependencies (dagger-compiler only as "Provided" because it is used only for code generation ).
 
-[![](/assets/images/2017-10-26-21_24_15-Project-Structure.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_24_15-Project-Structure.png)
+[![](images/2017-10-26-21_24_15-Project-Structure.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_24_15-Project-Structure.png)
 
 ### Setup SparkJava web server
 
@@ -205,7 +205,7 @@ public class Main {
 
 Now if you run the application you should already get the first page:
 
-### [![](/assets/images/2017-10-26-21_36_43-localhost_4567_hello.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_36_43-localhost_4567_hello.png)Publish to the github
+### [![](images/2017-10-26-21_36_43-localhost_4567_hello.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-26-21_36_43-localhost_4567_hello.png)Publish to the github
 
 First enable VSC support in the local project and add .gitignore file to the project. Next we add files to the local git repository created in the project.
 

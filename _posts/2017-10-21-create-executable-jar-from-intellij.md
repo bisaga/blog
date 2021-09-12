@@ -16,8 +16,8 @@ The version of java used in the article was 1.8.
 ## Automatically created build artifact:
 
 1. Open File/Project structure
-2. Create new artifact, JAR, from modules with dependencies: [![](/assets/images/2017-10-21-14_54_16-Untitled-Paint.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-14_54_16-Untitled-Paint.png)
-3. Enter proper **startup class** and select proper function how to use external 3rd party libraries in the target artifact ("**copy to the output directory and link via manifest**"). We don't want to extract them to the target JAR file because some of them are probably signed and those will not work inside the target JAR.  [![](/assets/images/2017-10-21-14_57_06-Create-JAR-from-Modules.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-14_57_06-Create-JAR-from-Modules.png)
+2. Create new artifact, JAR, from modules with dependencies: [![](images/2017-10-21-14_54_16-Untitled-Paint.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-14_54_16-Untitled-Paint.png)
+3. Enter proper **startup class** and select proper function how to use external 3rd party libraries in the target artifact ("**copy to the output directory and link via manifest**"). We don't want to extract them to the target JAR file because some of them are probably signed and those will not work inside the target JAR.  [![](images/2017-10-21-14_57_06-Create-JAR-from-Modules.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-14_57_06-Create-JAR-from-Modules.png)
 
 Now you can build artifact from the menu (/**Build/Build artifact**/) and test it from the command line:
 
@@ -27,7 +27,7 @@ $ java -jar out/artifacts/sparkweb/sparkweb.jar
 
 If you wish to have more influence on target artifact then you use "Other" artifact type and design the process manually:
 
-[![](/assets/images/2017-10-21-13_20_04-Project-Structure-1.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-13_20_04-Project-Structure-1.png)
+[![](images/2017-10-21-13_20_04-Project-Structure-1.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-13_20_04-Project-Structure-1.png)
 
 You can move external libraries into some sub folder for example and then create manifest file manually to reflect that new class path.
 
@@ -51,7 +51,7 @@ Class-Path: javax.servlet-3.0.0.v201112011016.jar
   spark-core-2.0.0.jar
 Main-Class: com.bisaga.Main
 
-[![](/assets/images/2017-10-21-12_35_36-sparkweb-C__Bisaga_Workspaces_learnjava_sparkweb-sparkweb-..._src_META.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-12_35_36-sparkweb-C__Bisaga_Workspaces_learnjava_sparkweb-sparkweb-..._src_META.png)
+[![](images/2017-10-21-12_35_36-sparkweb-C__Bisaga_Workspaces_learnjava_sparkweb-sparkweb-..._src_META.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-21-12_35_36-sparkweb-C__Bisaga_Workspaces_learnjava_sparkweb-sparkweb-..._src_META.png)
 
 Read [this blog](http://karthicraghupathi.com/2016/07/10/creating-an-executable-jar-in-intellij-idea/) for more detailed instructions..
 

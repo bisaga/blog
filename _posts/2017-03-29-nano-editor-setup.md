@@ -40,6 +40,6 @@ set functioncolor white
 
 After nano restart editor, your file should look like :
 
-[![](/assets/images/2017-03-29-22_04_13--300x173.png)](http://bisaga.com/blog/wp-content/uploads/2017/03/2017-03-29-22_04_13-.png)
+[![](images/2017-03-29-22_04_13--300x173.png)](http://bisaga.com/blog/wp-content/uploads/2017/03/2017-03-29-22_04_13-.png)
 
 This should work in the **linux** or in **windows/cygwin** environment.

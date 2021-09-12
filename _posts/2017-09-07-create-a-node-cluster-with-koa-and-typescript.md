@@ -115,13 +115,13 @@ node ./dist/run\_cluster.js
 
 As we see on the console the server start multiple processes and listen on the same port. Well, that's whole point, to be able to send requests to the same address and server will divide load to multiple processes.
 
-[![](/assets/images/2017-09-07-22_07_51-package.json-—-promises-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-07-22_07_51-package.json-—-promises-—-Visual-Studio-Code.png)
+[![](images/2017-09-07-22_07_51-package.json-—-promises-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-07-22_07_51-package.json-—-promises-—-Visual-Studio-Code.png)
 
 ### Test the server
 
 Now if you go to browser and navigate to "localhost:3002/", the server will respond with value of the current process id and count variable. Try refreshing multiple times, the counter will always increase by 1. If you then kill the process and navigate again, you will get another process id and the counter will start again with one. Each process has his own Koa application instance.
 
-## [![](/assets/images/2017-09-07-22_20_28-localhost_3002.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-07-22_20_28-localhost_3002.png)Kill the process and test server robustness
+## [![](images/2017-09-07-22_20_28-localhost_3002.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-07-22_20_28-localhost_3002.png)Kill the process and test server robustness
 
 If you navigate to "localhost:3002/stop", you will essentially kill current process. After irrecoverable failure on the server process,  cluster "exit" event is triggered and we simply start new process again.
 
