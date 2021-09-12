@@ -31,7 +31,7 @@ titles_from_headings:
 
 defaults:
   - scope:
-      path: ""
+      path: "/blog"
       type: post
     values:
       tags: Other
