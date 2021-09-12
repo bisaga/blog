@@ -85,7 +85,7 @@ You can test it immediately with console command:
 
 \>php console.php list migration
 
-![2015-11-18 21_47_07-Command Prompt](images/2015-11-18-21_47_07-Command-Prompt-300x133.png)
+![2015-11-18 21_47_07-Command Prompt](/assets/images/2015-11-18-21_47_07-Command-Prompt-300x133.png)
 
 With data migrations you can easily update your project database with a programmatic interface with version support.  Your database schema can grow without risk of loosing control over it.
 
@@ -153,7 +153,7 @@ class Version20151117184031 extends AbstractMigration
 
 After generating first migration file the file is saved in configured migrations folder (./app/Migrations/).
 
-[![2015-11-19 00_53_25-silex03 - NetBeans IDE 8.0.2](images/2015-11-19-00_53_25-silex03-NetBeans-IDE-8.0.2-289x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-19-00_53_25-silex03-NetBeans-IDE-8.0.2.png)
+[![2015-11-19 00_53_25-silex03 - NetBeans IDE 8.0.2](/assets/images/2015-11-19-00_53_25-silex03-NetBeans-IDE-8.0.2-289x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-19-00_53_25-silex03-NetBeans-IDE-8.0.2.png)
 
 ## Run migrations
 

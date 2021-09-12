@@ -17,7 +17,7 @@ On one of my machines I use ElementaryOS linux. This flavor of linux does not su
 
 Download code\*\*\*.tar.gz file from [https://code.visualstudio.com/Download](https://code.visualstudio.com/Download) address. Link to **.tar.gz** is under the “deb” square.
 
-[![](images/2017-08-30-00_11_28-Download-Visual-Studio-Code-Mac-Linux-Windows-300x161.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-30-00_11_28-Download-Visual-Studio-Code-Mac-Linux-Windows.png)
+[![](/assets/images/2017-08-30-00_11_28-Download-Visual-Studio-Code-Mac-Linux-Windows-300x161.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-30-00_11_28-Download-Visual-Studio-Code-Mac-Linux-Windows.png)
 
 ## Install
 

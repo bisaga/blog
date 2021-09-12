@@ -91,4 +91,4 @@ public class HelloService {
 
 This example code is called from REST JSON service and result in the browser looks like this:
 
-[![2016-11-26-16_38_26-localhost_8080_helloworld_webresources_hello](images/2016-11-26-16_38_26-localhost_8080_HelloWorld_webresources_hello-300x217.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-26-16_38_26-localhost_8080_HelloWorld_webresources_hello.png)
+[![2016-11-26-16_38_26-localhost_8080_helloworld_webresources_hello](/assets/images/2016-11-26-16_38_26-localhost_8080_HelloWorld_webresources_hello-300x217.png)](http://bisaga.com/blog/wp-content/uploads/2016/11/2016-11-26-16_38_26-localhost_8080_HelloWorld_webresources_hello.png)

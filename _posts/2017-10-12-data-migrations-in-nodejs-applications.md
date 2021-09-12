@@ -16,7 +16,7 @@ tags:
 
 As your application grow your database model evolve too.  The changes from one version to another is made by migrations. Each migration in the db-migrate tool is in essence  a small javascript program. You can code your migration changes manually in the javascript syntax or generate small javascript program (with --sql-file option) to execute your SQL script files. One for the UP and one for the DOWN function of migration.
 
-[![](images/dbmigrate.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/dbmigrate.png)
+[![](/assets/images/dbmigrate.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/dbmigrate.png)
 
 **up**: you upgrade your database schema to the new version **down**: you reverse latest changes to the previous version **create**: create new migration, with an **\--sql-file** option create a SQL file runner
 
@@ -55,7 +55,7 @@ By default your migration javascript files reside in the "./migrations" folder a
 
 Three new files are created, all files are prefixed with the timestamp which represent order of execution.
 
-[![](images/2017-10-12-22_37_52-currency.ts-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-12-22_37_52-currency.ts-database-Visual-Studio-Code.png)
+[![](/assets/images/2017-10-12-22_37_52-currency.ts-database-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-12-22_37_52-currency.ts-database-Visual-Studio-Code.png)
 
 Additional two files with the suffix **sql** are prepared for your upgrade script and downgrade script. If you wish to have ability to downgrade database to the previous level make sure you write down script to.
 

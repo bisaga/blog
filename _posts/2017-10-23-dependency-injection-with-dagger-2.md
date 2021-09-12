@@ -23,15 +23,15 @@ Open project structure and add dagger as project dependency from Maven repositor
 
 The dagger compiler has to be available only for development phase (annotation processing will generate code) so we added it as "Provided" dependency.
 
-[![](images/2017-10-23-22_35_06-Project-Structure.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-23-22_35_06-Project-Structure.png)
+[![](/assets/images/2017-10-23-22_35_06-Project-Structure.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-23-22_35_06-Project-Structure.png)
 
 Enable annotation processing in the project settings and select content root for generated code.
 
-[![](images/2017-10-23-22_32_40-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-23-22_32_40-Settings.png)
+[![](/assets/images/2017-10-23-22_32_40-Settings.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-23-22_32_40-Settings.png)
 
 If you wish to inspect generated code in the project tree it is wise to open "generated" folder manually and mark it as "Source root".  After compiling the project tree will look like this:
 
-[![](images/2017-10-24-00_46_14-simple-C__Bisaga_Workspaces_learnjava_simple-simple-..._src_com_bisaga.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-24-00_46_14-simple-C__Bisaga_Workspaces_learnjava_simple-simple-..._src_com_bisaga.png)
+[![](/assets/images/2017-10-24-00_46_14-simple-C__Bisaga_Workspaces_learnjava_simple-simple-..._src_com_bisaga.png)](http://bisaga.com/blog/wp-content/uploads/2017/10/2017-10-24-00_46_14-simple-C__Bisaga_Workspaces_learnjava_simple-simple-..._src_com_bisaga.png)
 
 # Create simple service application
 

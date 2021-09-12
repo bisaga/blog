@@ -21,7 +21,7 @@ The code from this article is available [here](https://github.com/bisaga/sakila)
 
 I described basic usage of Dagger 2 already in [this article](http://bisaga.com/blog/programming/dependency-injection-with-dagger-2/), now we need to implement dependency injection mechanism in the web application. Typical web application would have at least two layers, one for the web server itself and another for client request processing.
 
-[![](images/daggerwebarchitecturev2.png)](http://bisaga.com/blog/wp-content/uploads/2017/11/daggerwebarchitecturev2.png)
+[![](/assets/images/daggerwebarchitecturev2.png)](http://bisaga.com/blog/wp-content/uploads/2017/11/daggerwebarchitecturev2.png)
 
 Spark Java web server internally use embedded Jetty web server. To setup and start the server we provide some central services like configurations, authentication, statistics etc. Those services are usually instantiated once per whole application.
 

@@ -16,11 +16,11 @@ tags:
 
 To download it , go to eclipse packages download page and select [Eclipse for Scout Developers](http://www.eclipse.org/downloads/eclipse-packages/) package.
 
-##### [![2017-01-17-21_54_17-eclipse_scout](images/2017-01-17-21_54_17-eclipse_scout-300x52.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-21_54_17-eclipse_scout.png)Unblock ZIP file
+##### [![2017-01-17-21_54_17-eclipse_scout](/assets/images/2017-01-17-21_54_17-eclipse_scout-300x52.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-21_54_17-eclipse_scout.png)Unblock ZIP file
 
 Before you unzip it somewhere, try to **unblock** zip file first, you will avoid some difficulties later on. Right click on zip file and under Security section check "Unblock".
 
-## [![2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-properties](images/2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-Properties-214x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-Properties.png)
+## [![2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-properties](/assets/images/2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-Properties-214x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-22_18_25-eclipse-scout-neon-2-win32-x86_641-Properties.png)
 
 ## Eclipse workspaces
 
@@ -48,7 +48,7 @@ To run "empty" example, open "empty.all.app.dev" project, select "\[webapp\] dev
 
 Open http://localhost:8082/ in browser and you will get something like this:
 
-[![2017-01-17-23_27_34-empty-example](images/2017-01-17-23_27_34-Empty-example-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-23_27_34-Empty-example.png)
+[![2017-01-17-23_27_34-empty-example](/assets/images/2017-01-17-23_27_34-Empty-example-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2017/01/2017-01-17-23_27_34-Empty-example.png)
 
 ## Scout application architecture and documentation
 

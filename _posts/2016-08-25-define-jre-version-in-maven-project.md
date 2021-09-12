@@ -38,7 +38,7 @@ After changing maven project configuration file (pom.xml) you need to refresh ec
 
 At project level, with right click open Maven submenu and select Update project...
 
-[![2016-08-25 21_14_37-Jump List for Mozilla Firefox](images/2016-08-25-21_14_37-Jump-List-for-Mozilla-Firefox-1-278x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/08/2016-08-25-21_14_37-Jump-List-for-Mozilla-Firefox-1.png)
+[![2016-08-25 21_14_37-Jump List for Mozilla Firefox](/assets/images/2016-08-25-21_14_37-Jump-List-for-Mozilla-Firefox-1-278x300.png)](http://bisaga.com/blog/wp-content/uploads/2016/08/2016-08-25-21_14_37-Jump-List-for-Mozilla-Firefox-1.png)
 
 ### Other sources :
 
