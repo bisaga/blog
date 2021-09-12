@@ -13,6 +13,7 @@ tags:
 ---
 
 # Integrating Start Bootstrap template
+{% comment %}
 
 We will implement bootstrap based web application theme in Silex application. The best way to start out is with already [available theme](http://startbootstrap.com/template-overviews/sb-admin-2/).
 
@@ -120,3 +121,4 @@ Worklog application folder now grow little larger because of new front-end compo
 At this point our web application is almost empty, but we have all  necessary components ready to use.
 
 This example application is available on the [Github](https://github.com/bisaga/Worklog).
+{% endcomment %}
