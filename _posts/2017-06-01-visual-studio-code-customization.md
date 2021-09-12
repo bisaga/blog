@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Visual Studio Code - customization"
 date: "2017-06-01"
 categories: 

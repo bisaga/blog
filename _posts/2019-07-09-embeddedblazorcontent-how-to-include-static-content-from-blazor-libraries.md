@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "EmbeddedBlazorContent - how to include static content from blazor libraries"
 date: "2019-07-09"
 categories: 

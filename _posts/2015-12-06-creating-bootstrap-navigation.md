@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Worklog Part 2: Creating navigation with bootstrap"
 date: "2015-12-06"
 categories: 

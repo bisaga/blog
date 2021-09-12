@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular - Add Bootstrap to your application"
 date: "2017-07-06"
 categories: 

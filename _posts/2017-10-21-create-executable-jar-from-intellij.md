@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Create an executable JAR from IntelliJ CE"
 date: "2017-10-21"
 categories: 

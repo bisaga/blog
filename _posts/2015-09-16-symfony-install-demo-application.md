@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Symfony - demo application"
 date: "2015-09-16"
 categories: 

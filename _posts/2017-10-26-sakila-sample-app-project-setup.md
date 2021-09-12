@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sakila: Sample app project setup"
 date: "2017-10-26"
 categories: 

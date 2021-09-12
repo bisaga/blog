@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Prepare JavaEE/JavaScript development environment"
 date: "2016-11-17"
 categories: 

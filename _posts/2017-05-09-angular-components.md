@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular components"
 date: "2017-05-09"
 categories: 

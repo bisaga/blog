@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Nano editor setup"
 date: "2017-03-29"
 categories: 

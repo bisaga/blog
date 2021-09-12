@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Eclipse scout - development environment"
 date: "2017-01-17"
 categories: 

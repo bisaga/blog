@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Database migrations with FluentMigrator"
 date: "2019-07-06"
 categories: 

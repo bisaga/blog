@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Worklog Part 1: Building web application with Bootstrap"
 date: "2015-11-26"
 categories: 

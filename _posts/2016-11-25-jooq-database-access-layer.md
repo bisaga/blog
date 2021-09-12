@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "JOOQ - database access layer"
 date: "2016-11-25"
 categories: 

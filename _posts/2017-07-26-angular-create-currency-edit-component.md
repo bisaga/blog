@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular - create currency edit component"
 date: "2017-07-26"
 categories: 

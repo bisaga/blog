@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Maven - installation"
 date: "2016-12-07"
 categories: 

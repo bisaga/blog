@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Include Bootstrap in Symfony 2 application"
 date: "2015-10-11"
 categories: 

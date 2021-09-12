@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Setting up the Environment for Node.js and TypeScript"
 date: "2017-08-23"
 categories: 

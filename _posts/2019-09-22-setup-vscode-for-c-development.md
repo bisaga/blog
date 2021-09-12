@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Setup VSCode for C# development"
 date: "2019-09-22"
 categories: 

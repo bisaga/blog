@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Symfony installer, creating new project"
 date: "2015-09-04"
 categories: 

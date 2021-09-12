@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular - create currency list view component"
 date: "2017-07-06"
 categories: 

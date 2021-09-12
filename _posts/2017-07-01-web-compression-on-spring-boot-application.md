@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Web compression on Spring Boot application"
 date: "2017-07-01"
 categories: 

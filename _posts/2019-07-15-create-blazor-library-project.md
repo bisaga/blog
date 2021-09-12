@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Create blazor library project in the Visual Studio 2019 preview"
 date: "2019-07-15"
 categories: 

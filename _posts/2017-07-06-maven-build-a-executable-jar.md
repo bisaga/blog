@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Maven:  Build a executable JAR"
 date: "2017-07-06"
 categories: 

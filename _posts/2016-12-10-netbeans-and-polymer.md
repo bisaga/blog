@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Netbeans and Polymer"
 date: "2016-12-10"
 categories: 

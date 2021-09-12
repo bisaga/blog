@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Sakila- Dagger 2 Dependency Injection"
 date: "2017-11-16"
 categories: 

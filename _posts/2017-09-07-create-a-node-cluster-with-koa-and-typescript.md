@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Create a Node cluster with Koa and TypeScript"
 date: "2017-09-07"
 categories: 

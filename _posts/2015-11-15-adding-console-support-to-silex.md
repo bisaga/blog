@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Adding symfony console support to silex application"
 date: "2015-11-15"
 categories: 

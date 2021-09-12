@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ubuntu - remap keys on keyboard"
 date: "2019-10-04"
 categories: 

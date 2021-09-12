@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular and Bootstrap 4 with Sass"
 date: "2017-08-17"
 categories: 

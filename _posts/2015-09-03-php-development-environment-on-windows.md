@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PHP development environment on windows"
 date: "2015-09-03"
 categories: 

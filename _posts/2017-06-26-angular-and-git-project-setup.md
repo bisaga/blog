@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular and Git project setup"
 date: "2017-06-26"
 categories: 

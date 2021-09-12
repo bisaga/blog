@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular and Sass with Bootstrap 3 style support"
 date: "2017-08-09"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Spring boot and Netbeans"
 date: "2016-12-07"
 categories: 

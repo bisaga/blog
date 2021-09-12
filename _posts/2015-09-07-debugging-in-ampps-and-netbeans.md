@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Debugging in Ampps and Netbeans"
 date: "2015-09-07"
 categories: 

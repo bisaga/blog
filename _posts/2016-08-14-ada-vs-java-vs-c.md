@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ada vs Java vs C#"
 date: "2016-08-14"
 categories: 

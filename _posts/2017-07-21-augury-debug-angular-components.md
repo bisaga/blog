@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Augury - debug angular components"
 date: "2017-07-21"
 categories: 

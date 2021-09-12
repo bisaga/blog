@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Doctrine DBAL - working with database"
 date: "2015-09-27"
 categories: 

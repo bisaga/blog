@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Visual Studio Code - Linux installation"
 date: "2017-08-29"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Syncfusion EJ2 AspNet Core Blazor components installation"
 date: "2019-07-07"
 categories: 

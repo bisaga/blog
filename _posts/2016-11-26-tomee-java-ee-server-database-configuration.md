@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "TomEE: Java EE server database configuration"
 date: "2016-11-26"
 categories: 

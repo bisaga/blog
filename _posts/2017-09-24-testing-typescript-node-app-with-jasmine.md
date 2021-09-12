@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Testing TypeScript Node app with Jasmine"
 date: "2017-09-24"
 categories: 

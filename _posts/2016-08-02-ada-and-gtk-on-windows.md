@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Ada and GTK on windows"
 date: "2016-08-02"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "MatBlazor components installation"
 date: "2019-07-07"
 categories: 

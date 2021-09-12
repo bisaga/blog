@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Define JRE version in maven project"
 date: "2016-08-25"
 categories: 

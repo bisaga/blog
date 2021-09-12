@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Java Spring Boot project setup"
 date: "2017-06-18"
 categories: 

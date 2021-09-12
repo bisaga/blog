@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Cron job - running PHP in the background"
 date: "2015-10-22"
 categories: 

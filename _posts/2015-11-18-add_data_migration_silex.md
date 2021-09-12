@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "How to add data migration support to Silex"
 date: "2015-11-18"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "C# dotnet core development tips"
 date: "2019-10-12"
 categories: 

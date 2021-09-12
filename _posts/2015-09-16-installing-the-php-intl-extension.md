@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Installing the php_intl extension"
 date: "2015-09-16"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Connect to Github via Netbeans"
 date: "2016-11-27"
 categories: 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Data migrations in Node applications"
 date: "2017-10-12"
 categories: 

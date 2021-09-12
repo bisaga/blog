@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "PowerShell startup script"
 date: "2017-06-13"
 categories: 

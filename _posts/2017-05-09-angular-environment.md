@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Angular environment with java backend server app setup"
 date: "2017-05-09"
 categories: 

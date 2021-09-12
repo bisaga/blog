@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Dependency injection with Dagger 2"
 date: "2017-10-23"
 categories: 

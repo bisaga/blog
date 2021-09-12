@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Asynchronous programming with async/await pattern"
 date: "2017-09-05"
 categories: 

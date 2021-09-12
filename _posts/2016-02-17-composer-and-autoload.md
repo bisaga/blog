@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Composer and autoload"
 date: "2016-02-17"
 categories: 

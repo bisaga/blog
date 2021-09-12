@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Google Drive sync with Grive2 on Ubuntu"
 date: "2019-09-23"
 categories: 

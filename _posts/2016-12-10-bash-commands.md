@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Bash commands"
 date: "2016-12-10"
 categories: 
