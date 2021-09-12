@@ -12,6 +12,8 @@ tags:
 
 ## [Bootstrap](http://getbootstrap.com/)
 
+{% comment %}
+
 The best tool to design nice, responsive, mobile first web applications is bootstrap framework. It is  also integrated as [form design theme](http://symfony.com/blog/new-in-symfony-2-6-bootstrap-form-theme) in symfony.
 
 Before you can use it in your [symfony](http://symfony.com/) application, you will need to install it.
@@ -120,3 +122,5 @@ And the final twig file with all required includes for bootstrap is :
         <script src="{{ asset('bootstrap.min.js', 'bootstrapjs')}}"></script>
     </body>
 </html>
+
+{% endcomment %}
