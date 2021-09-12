@@ -16,7 +16,7 @@ If you need internationalization extension (php\_intl.dll), and you have [simila
 
 Open Ampps manager under PHP , enable internationalization extension (php\_intl.dll) and click Apply.
 
-#### [![2015-09-16 22_41_09-Program Manager](assets/images/2015-09-16-22_41_09-Program-Manager-300x275.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-22_41_09-Program-Manager.png)That was simple , yes ?
+#### [![2015-09-16 22_41_09-Program Manager](/assets/images/2015-09-16-22_41_09-Program-Manager-300x275.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-22_41_09-Program-Manager.png)That was simple , yes ?
 
 To check if extension is available, you need to start "php -i" in command line and search for "intl" :
 
@@ -26,7 +26,7 @@ H:\\>php -i
 
 _The procedure entry point \_\_crtCreateSymbolicLinkW could not be located in the dynamic link library MSVCR110.dll_
 
-[![The procedure entry point __crtCreateSymbolicLinkW could not be located in the dynamic link library MSVCR110.dll](assets/images/2015-09-16-22_52_00-php.exe-Entry-Point-Not-Found-300x118.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-22_52_00-php.exe-Entry-Point-Not-Found.png)
+[![The procedure entry point __crtCreateSymbolicLinkW could not be located in the dynamic link library MSVCR110.dll](/assets/images/2015-09-16-22_52_00-php.exe-Entry-Point-Not-Found-300x118.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-22_52_00-php.exe-Entry-Point-Not-Found.png)
 
 We need latest [Visual C++ Runtime](http://www.microsoft.com/en-us/download/details.aspx?id=30679), but even if we have one on the windows installed, something prevent PHP to load correct DLL.
 

@@ -26,7 +26,7 @@ After installation of all required components (including jquery, bootstrap  and
 
 After unzipping sample into local www folder we can navigate to it and start inspecting how it is constructed.
 
-[![2015-11-26 19_08_40-SB Admin 2 - Bootstrap Admin Theme](assets/images/2015-11-26-19_08_40-SB-Admin-2-Bootstrap-Admin-Theme-300x222.png)](http://ironsummitmedia.github.io/startbootstrap-sb-admin-2/pages/index.html)
+[![2015-11-26 19_08_40-SB Admin 2 - Bootstrap Admin Theme](/assets/images/2015-11-26-19_08_40-SB-Admin-2-Bootstrap-Admin-Theme-300x222.png)](http://ironsummitmedia.github.io/startbootstrap-sb-admin-2/pages/index.html)
 
 This beautiful sample contain almost everything what is needed to build very powerful web application !
 
@@ -38,7 +38,7 @@ We need to analyze index.html file from the sample and transfer definitions int
 
 After you have everything in place the response after loading index.php should be something like this (Firefox/Developer tools/Network screen):
 
-[![2015-11-26 19_46_09-Network - http___localhost_worklog_web_index.php](assets/images/2015-11-26-19_46_09-Network-http___localhost_worklog_web_index.php_-300x164.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-26-19_46_09-Network-http___localhost_worklog_web_index.php_.png)
+[![2015-11-26 19_46_09-Network - http___localhost_worklog_web_index.php](/assets/images/2015-11-26-19_46_09-Network-http___localhost_worklog_web_index.php_-300x164.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-26-19_46_09-Network-http___localhost_worklog_web_index.php_.png)
 
 All resources should be loaded successfully .
 
@@ -117,7 +117,7 @@ The content of twig base file:
 
 Worklog application folder now grow little larger because of new front-end components in bower\_components folder.
 
-[![2015-11-26 20_03_12-Programmer's Notepad - [index.html]](assets/images/2015-11-26-20_03_12-Programmers-Notepad-index.html-109x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-26-20_03_12-Programmers-Notepad-index.html.png)
+[![2015-11-26 20_03_12-Programmer's Notepad - [index.html]](/assets/images/2015-11-26-20_03_12-Programmers-Notepad-index.html-109x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/11/2015-11-26-20_03_12-Programmers-Notepad-index.html.png)
 
 At this point our web application is almost empty, but we have all  necessary components ready to use.
 

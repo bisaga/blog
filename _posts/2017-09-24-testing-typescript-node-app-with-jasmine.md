@@ -102,7 +102,7 @@ describe("MyApi getName function return value", () => {
 
 ### The full project structure:
 
-[![](assets/images/2017-09-24-10_52_17-myapi-spec.ts-—-mytest-—-Visual-Studio-Code-167x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-10_52_17-myapi-spec.ts-—-mytest-—-Visual-Studio-Code.png)
+[![](/assets/images/2017-09-24-10_52_17-myapi-spec.ts-—-mytest-—-Visual-Studio-Code-167x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-10_52_17-myapi-spec.ts-—-mytest-—-Visual-Studio-Code.png)
 
 To compile all typescript to javascript run "tsc" command in the root of the project.
 
@@ -143,7 +143,7 @@ First we need to understand how vs code editor [tasks](https://code.visualstudio
 
 Create task for running jasmine and to intercept errors as "problems" in the visual studio code problems tab:
 
-[![](assets/images/2017-09-24-14_24_47-tasks.json-—-mytest-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-14_24_47-tasks.json-—-mytest-—-Visual-Studio-Code.png)
+[![](/assets/images/2017-09-24-14_24_47-tasks.json-—-mytest-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-14_24_47-tasks.json-—-mytest-—-Visual-Studio-Code.png)
 
 As we see in the screenshot, the exceptions in jasmine test results are intercepted by vs code editor and presented as "problems".  If you click on the single problem line, the file under the error will be opened and cursor will be moved to the corresponding location.
 
@@ -197,7 +197,7 @@ If you will study the pattern matching you should remember that matcher works on
 
 If you need to change any of patterns in the future, the regex string in the tasks.json file is written in the "escaped" form. To develop and test patterns interactively, use this [interactive javascript regex tester](https://www.regexpal.com/).  You can copy specific line from the result (line by line!) into the regex tester and develop a pattern to recognize searched variables.
 
-[![](assets/images/2017-09-24-14_44_26-Regex-Tester-Javascript-PCRE-PHP.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-14_44_26-Regex-Tester-Javascript-PCRE-PHP.png)
+[![](/assets/images/2017-09-24-14_44_26-Regex-Tester-Javascript-PCRE-PHP.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-24-14_44_26-Regex-Tester-Javascript-PCRE-PHP.png)
 
 Un-escaped form:  at +.\*\\((.\*\\\\\*.ts):(\\d+):(\\d+)\\)
 Escaped form:     at +.\*\\\\((.\*\\\\\\\\\*.ts):(\\\\d+):(\\\\d+)\\\\)

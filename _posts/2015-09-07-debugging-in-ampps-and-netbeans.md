@@ -18,7 +18,7 @@ I just want to add some additional tips before you start downloading and insta
 
 Open [Ampps local control center](http://localhost/ampps/) and check [PHP Info](http://localhost/cgi-bin/phpinfo.cgi) page.
 
-[![2015-09-13 23_17_18-phpinfo()](assets/images/2015-09-13-23_17_18-phpinfo-243x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-13-23_17_18-phpinfo.png)
+[![2015-09-13 23_17_18-phpinfo()](/assets/images/2015-09-13-23_17_18-phpinfo-243x300.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-13-23_17_18-phpinfo.png)
 
 Files are named with combination of **used compiler** (MSVC11 = VC11, MSVC9 = VC9), **architecture** (x86 = 32bit,  x64 = 64bit) and **thread safety** settings (TS = enabled).
 
@@ -39,9 +39,9 @@ xdebug.remote\_handler=dbgp
 
 Restart Apache and check phpInfo() in local ampps web admin page (http://localhost/ampps/).
 
-[![2015-09-13 23_31_42-phpinfo()](assets/images/2015-09-13-23_31_42-phpinfo-300x43.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-13-23_31_42-phpinfo.png)After successful installation your breakpoints in [PHP code should work as expected](https://netbeans.org/kb/docs/php/debugging.html).
+[![2015-09-13 23_31_42-phpinfo()](/assets/images/2015-09-13-23_31_42-phpinfo-300x43.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-13-23_31_42-phpinfo.png)After successful installation your breakpoints in [PHP code should work as expected](https://netbeans.org/kb/docs/php/debugging.html).
 
-[![2015-09-07 21_41_09-NetBeans Platform 8.0.2](assets/images/2015-09-07-21_41_09-NetBeans-Platform-8.0.2-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-21_41_09-NetBeans-Platform-8.0.2.png)
+[![2015-09-07 21_41_09-NetBeans Platform 8.0.2](/assets/images/2015-09-07-21_41_09-NetBeans-Platform-8.0.2-300x180.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-21_41_09-NetBeans-Platform-8.0.2.png)
 
 When you debug application, link to the application, get additional debug parameter:
 

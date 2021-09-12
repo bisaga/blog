@@ -57,7 +57,7 @@ Open user settings profile and add command:
 
 The terminal is opened inside IDE as "Terminal window" with current project folder.
 
-[![](assets/images/2017-06-15-23_39_57-settings.json-—-myapp01-—-Visual-Studio-Code-300x109.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_39_57-settings.json-—-myapp01-—-Visual-Studio-Code.png)
+[![](/assets/images/2017-06-15-23_39_57-settings.json-—-myapp01-—-Visual-Studio-Code-300x109.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_39_57-settings.json-—-myapp01-—-Visual-Studio-Code.png)
 
  
 
@@ -65,8 +65,8 @@ The terminal is opened inside IDE as "Terminal window" with current project fold
 
 Open "File/Settings/Terminal" and enter shell path in application settings section :
 
-[![](assets/images/2017-06-15-23_42_41-Settings-300x157.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_42_41-Settings.png)
+[![](/assets/images/2017-06-15-23_42_41-Settings-300x157.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_42_41-Settings.png)
 
 When you open terminal you get bash shell inside IDE :
 
-[![](assets/images/2017-06-15-23_43_53-bsgtime-C__Bisaga_Workspaces_bisaga_time_server_bisaga_time-time.server--300x90.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_43_53-bsgtime-C__Bisaga_Workspaces_bisaga_time_server_bisaga_time-time.server-.png)
+[![](/assets/images/2017-06-15-23_43_53-bsgtime-C__Bisaga_Workspaces_bisaga_time_server_bisaga_time-time.server--300x90.png)](http://bisaga.com/blog/wp-content/uploads/2016/12/2017-06-15-23_43_53-bsgtime-C__Bisaga_Workspaces_bisaga_time_server_bisaga_time-time.server-.png)

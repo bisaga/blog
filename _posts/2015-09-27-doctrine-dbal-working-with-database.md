@@ -124,7 +124,7 @@ Don't forget we have all the power of [PDO library](http://php.net/manual/en/pdo
 
 With little help from [variable type hinting](https://blogs.oracle.com/netbeansphp/entry/defining_a_variable_type_in) , we get full code completion on received object instance in the IDE:
 
-[![2015-09-27 11_05_12-Untitled - paint.net 4.0.6](assets/images/2015-09-27-11_05_12-Untitled-paint.net-4.0.6-300x156.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-27-11_05_12-Untitled-paint.net-4.0.6.png)Well, that's of course possible only in case we use same exact names in database and in php class :
+[![2015-09-27 11_05_12-Untitled - paint.net 4.0.6](/assets/images/2015-09-27-11_05_12-Untitled-paint.net-4.0.6-300x156.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-27-11_05_12-Untitled-paint.net-4.0.6.png)Well, that's of course possible only in case we use same exact names in database and in php class :
 
 <?php
 

@@ -26,7 +26,7 @@ Looks like compiled language (Ada) lost this battle with highly optimized virtua
 
 ### Measurements in seconds
 
-[![2016-08-14 23_43_47-Ada_vs_Java_vs_C#.odt - LibreOffice Writer](assets/images/2016-08-14-23_43_47-Ada_vs_Java_vs_C.odt-LibreOffice-Writer-300x170.png)](http://bisaga.com/blog/wp-content/uploads/2016/08/2016-08-14-23_43_47-Ada_vs_Java_vs_C.odt-LibreOffice-Writer.png)(Lower is better)
+[![2016-08-14 23_43_47-Ada_vs_Java_vs_C#.odt - LibreOffice Writer](/assets/images/2016-08-14-23_43_47-Ada_vs_Java_vs_C.odt-LibreOffice-Writer-300x170.png)](http://bisaga.com/blog/wp-content/uploads/2016/08/2016-08-14-23_43_47-Ada_vs_Java_vs_C.odt-LibreOffice-Writer.png)(Lower is better)
 
 ### Ada code
 

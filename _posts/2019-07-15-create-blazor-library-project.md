@@ -40,7 +40,7 @@ If we want to have "code behind" files (with csharp code) hidden "**under**" the
 
 **Example:**
 
-![](assets/images/2019-07-15-13_38_46-Bisaga-Microsoft-Visual-Studio-Preview.png)
+![](/assets/images/2019-07-15-13_38_46-Bisaga-Microsoft-Visual-Studio-Preview.png)
 
 The name of the component "BsgCompanyForm.razor" and the code behind with "functions" in csharp file named "BsgCompanyForm.razor.cs". But don't forget that the name of the class cannot be the same as the component name (in this case "BsgCompanyForm" but we usually add some additional suffix in the class name too.
 

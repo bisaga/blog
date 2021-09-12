@@ -86,7 +86,7 @@ Sample usage:
         Take a picture
     </button>
 
-[![](assets/images/2017-08-17-07_55_30-AngularMyApp.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-17-07_55_30-AngularMyApp.png)
+[![](/assets/images/2017-08-17-07_55_30-AngularMyApp.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-17-07_55_30-AngularMyApp.png)
 
 ## Separate style from html
 
@@ -238,7 +238,7 @@ To use specific bootstrap class as your own, you need to extend it. You can use 
 
 Create your css selector names with semantic naming, that way your html code will become self descriptive and maintainable in the future.
 
-[![](assets/images/2017-08-17-08_23_05-Greenshot-image-editor-300x119.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-17-08_23_05-Greenshot-image-editor.png)
+[![](/assets/images/2017-08-17-08_23_05-Greenshot-image-editor-300x119.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-17-08_23_05-Greenshot-image-editor.png)
 
 Component declaration doesn't use the scss files and we retain default view encapsulation of the component.
 
@@ -331,4 +331,4 @@ The compiled CSS file is only one for whole application.
 
 Redesigned currency example now looks like this :
 
-[![](assets/images/2017-08-18-00_20_28-AngularMyApp-300x234.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-18-00_20_28-AngularMyApp.png)
+[![](/assets/images/2017-08-18-00_20_28-AngularMyApp-300x234.png)](http://bisaga.com/blog/wp-content/uploads/2017/08/2017-08-18-00_20_28-AngularMyApp.png)

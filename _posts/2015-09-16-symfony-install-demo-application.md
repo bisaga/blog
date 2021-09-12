@@ -25,7 +25,7 @@ http://localhost/symfony\_demo/web/app\_dev.php
 
 First page of application :
 
-[![2015-09-16 21_53_17-Symfony Demo application](assets/images/2015-09-16-21_53_17-Symfony-Demo-application-300x173.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-21_53_17-Symfony-Demo-application.png)If demo application doesn't work as expected and you get error like this :
+[![2015-09-16 21_53_17-Symfony Demo application](/assets/images/2015-09-16-21_53_17-Symfony-Demo-application-300x173.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-16-21_53_17-Symfony-Demo-application.png)If demo application doesn't work as expected and you get error like this :
 
 An exception has been thrown during the rendering of a template ("The Symfony\\Component\\Intl\\DateFormatter\\IntlDateFormatter::\_\_construct() method's argument $locale value NULL behavior is not implemented.  Only the locale "en" is supported. Please install the "intl" extension for full localization capabilities.") in blog/post\_show.html.twig at line 35.
 

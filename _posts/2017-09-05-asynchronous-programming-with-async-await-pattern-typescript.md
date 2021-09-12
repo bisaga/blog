@@ -42,7 +42,7 @@ After running the sample (index.ts) node application we should be able to start 
 
 Long running task will not always succeed, only when random value is higher then 500 will. If value is lower then the error is thrown and implemented error handling intercept it with try/catch block.
 
-[![](assets/images/2017-09-05-21_49_56-Asynchronous-programming-with-async_await-pattern-–-Bisaga-Blog-300x119.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-05-21_49_56-Asynchronous-programming-with-async_await-pattern-–-Bisaga-Blog.png)
+[![](/assets/images/2017-09-05-21_49_56-Asynchronous-programming-with-async_await-pattern-–-Bisaga-Blog-300x119.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-05-21_49_56-Asynchronous-programming-with-async_await-pattern-–-Bisaga-Blog.png)
 
 Code for this sample app:
 
@@ -183,4 +183,4 @@ The parallel call is made in the line :
 
 Await in "parallel()" function will be called back after all promises will be resolved. The longest operation in array of promises define the maximum time spend here.
 
-[![](assets/images/2017-09-06-22_19_06-index.ts-—-promises-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-06-22_19_06-index.ts-—-promises-—-Visual-Studio-Code.png)
+[![](/assets/images/2017-09-06-22_19_06-index.ts-—-promises-—-Visual-Studio-Code.png)](http://bisaga.com/blog/wp-content/uploads/2017/09/2017-09-06-22_19_06-index.ts-—-promises-—-Visual-Studio-Code.png)

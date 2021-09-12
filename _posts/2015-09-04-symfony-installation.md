@@ -34,7 +34,7 @@ H:\\TEMP> symfony
 
 You should see something like this:
 
-[![2015-09-04 17_44_31-Command Prompt](assets/images/2015-09-04-17_44_31-Command-Prompt-300x284.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-17_44_31-Command-Prompt.png)
+[![2015-09-04 17_44_31-Command Prompt](/assets/images/2015-09-04-17_44_31-Command-Prompt-300x284.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-04-17_44_31-Command-Prompt.png)
 
 Symfony **installer** installed !
 
@@ -52,18 +52,18 @@ http://localhost/webapp03/web/
 
 You will get application default startup page like:
 
-[![2015-09-06 10_00_35-Welcome! - Opera](assets/images/2015-09-06-10_00_35-Welcome-Opera-300x262.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-06-10_00_35-Welcome-Opera.png)
+[![2015-09-06 10_00_35-Welcome! - Opera](/assets/images/2015-09-06-10_00_35-Welcome-Opera-300x262.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-06-10_00_35-Welcome-Opera.png)
 
 #### Create project in Netbeans with existing source
 
 If you now want to work in [Netbeans](https://netbeans.org/features/php/), just open new project with existing source:
 
-[![2015-09-07 20_47_23-New Project](assets/images/2015-09-07-20_47_23-New-Project-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_47_23-New-Project.png)
+[![2015-09-07 20_47_23-New Project](/assets/images/2015-09-07-20_47_23-New-Project-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_47_23-New-Project.png)
 
  
 
 Select folder where generated project reside and you are good to go. You can create extra meta data folder for netbeans specific project files. This way you will not to pollute  web folder itself.
 
-[![2015-09-07 20_48_29-New PHP Project with Existing Sources](assets/images/2015-09-07-20_48_29-New-PHP-Project-with-Existing-Sources-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_48_29-New-PHP-Project-with-Existing-Sources.png)On the last step you should define startup file , this could be **web/app.php** or **web/app\_dev.php,** with some additional development informations from symfony framework in the bottom of the web page.
+[![2015-09-07 20_48_29-New PHP Project with Existing Sources](/assets/images/2015-09-07-20_48_29-New-PHP-Project-with-Existing-Sources-300x182.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_48_29-New-PHP-Project-with-Existing-Sources.png)On the last step you should define startup file , this could be **web/app.php** or **web/app\_dev.php,** with some additional development informations from symfony framework in the bottom of the web page.
 
-[![2015-09-07 20_49_26-New PHP Project with Existing Sources](assets/images/2015-09-07-20_49_26-New-PHP-Project-with-Existing-Sources-300x176.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_49_26-New-PHP-Project-with-Existing-Sources.png)
+[![2015-09-07 20_49_26-New PHP Project with Existing Sources](/assets/images/2015-09-07-20_49_26-New-PHP-Project-with-Existing-Sources-300x176.png)](http://bisaga.com/blog/wp-content/uploads/2015/09/2015-09-07-20_49_26-New-PHP-Project-with-Existing-Sources.png)

@@ -20,7 +20,7 @@ tags:
 
 Go to [Spring Boot project generator](https://start.spring.io/) web site and select minimal project definition with dependencies :
 
-[![](assets/images/2017-06-16-00_02_09-Spring-Initializr-300x206.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-16-00_02_09-Spring-Initializr.png)
+[![](/assets/images/2017-06-16-00_02_09-Spring-Initializr-300x206.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-16-00_02_09-Spring-Initializr.png)
 
 - **Web**:  dependency for embedded tomcat server
 - **jOOQ**: integrated SQL query language and data model code generator
@@ -224,9 +224,9 @@ Version was not required by spring boot but I put version in because I encounter
 
 After you add plugin definitions to maven pom.xml file you get new lifecycle commands :
 
-[![](assets/images/2017-06-17-17_18_39-Windows-Shell-Experience-Host-133x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_18_39-Windows-Shell-Experience-Host.png)When flyway commands are used directly they search for SQL files **in the target "classes" folder** and not in the source tree ("src"). When project compiled the files, target folder is synchronized with the current version of code in the source tree.
+[![](/assets/images/2017-06-17-17_18_39-Windows-Shell-Experience-Host-133x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_18_39-Windows-Shell-Experience-Host.png)When flyway commands are used directly they search for SQL files **in the target "classes" folder** and not in the source tree ("src"). When project compiled the files, target folder is synchronized with the current version of code in the source tree.
 
-[![](assets/images/2017-06-17-17_49_12-myapp-C__Bisaga_Workspaces_myapp-myapp-..._src_main_resources_db_migra-192x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_49_12-myapp-C__Bisaga_Workspaces_myapp-myapp-..._src_main_resources_db_migra.png)
+[![](/assets/images/2017-06-17-17_49_12-myapp-C__Bisaga_Workspaces_myapp-myapp-..._src_main_resources_db_migra-192x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_49_12-myapp-C__Bisaga_Workspaces_myapp-myapp-..._src_main_resources_db_migra.png)
 
 After compiling project you could run "flyway:migrate" command for example. You can always check files in the target folder and delete it if you are not sure you have the latest version of the files.
 
@@ -241,7 +241,7 @@ Jooq generate data model code from your database. The code is added to the proje
 
 Every time you compile project, database model code is regenerated. Check [here](https://www.jooq.org/) for more information about [jooq](https://www.jooq.org/).
 
-[![](assets/images/2017-06-17-17_25_46-myapp-C__Bisaga_Workspaces_myapp-application.properties-IntelliJ-IDEA-20-179x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_25_46-myapp-C__Bisaga_Workspaces_myapp-application.properties-IntelliJ-IDEA-20.png)You can check how database model code is regenerated simply by deleting a line from one of generated files and recompile the project again.
+[![](/assets/images/2017-06-17-17_25_46-myapp-C__Bisaga_Workspaces_myapp-application.properties-IntelliJ-IDEA-20-179x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-17-17_25_46-myapp-C__Bisaga_Workspaces_myapp-application.properties-IntelliJ-IDEA-20.png)You can check how database model code is regenerated simply by deleting a line from one of generated files and recompile the project again.
 
 More about jooq & spring boot can be found [here](https://www.javacodegeeks.com/2016/03/springboot-working-jooq.html).
 
@@ -456,9 +456,9 @@ Don't forget to instantiate services with DI (dependency injection) with @Autowi
 
 The service should in this point work as expected, just run application and navigate to "localhost:8080/api/currency".
 
-[![](assets/images/2017-06-28-21_54_52-localhost_8080_api_currency-216x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_54_52-localhost_8080_api_currency.png)You can search for a specific currency with added path variable appended to Url address:
+[![](/assets/images/2017-06-28-21_54_52-localhost_8080_api_currency-216x300.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_54_52-localhost_8080_api_currency.png)You can search for a specific currency with added path variable appended to Url address:
 
-[![](assets/images/2017-06-28-21_56_28-localhost_8080_api_currency_EUR-300x171.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_56_28-localhost_8080_api_currency_EUR.png)
+[![](/assets/images/2017-06-28-21_56_28-localhost_8080_api_currency_EUR-300x171.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_56_28-localhost_8080_api_currency_EUR.png)
 
 ## Postman application for Http API testing
 
@@ -466,6 +466,6 @@ To inspect service in more details on the client side, you can use [Postman](htt
 
 Look at example ofadding a currency with a **POST** message:
 
-[![](assets/images/2017-06-28-21_59_59-Postman-300x171.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_59_59-Postman.png)
+[![](/assets/images/2017-06-28-21_59_59-Postman-300x171.png)](http://bisaga.com/blog/wp-content/uploads/2017/06/2017-06-28-21_59_59-Postman.png)
 
 In the headar I add "content-type" variable with value "application/json" and in the payload a json message with a new currency json structure. On the right side I received "200-OK" and a currency record with a record and new row identifier registered in the database.

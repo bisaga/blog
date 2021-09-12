@@ -63,6 +63,6 @@ In the NavMenu.razor file add:
 
 **After compile your application should look something like :**
 
-![](assets/images/2019-07-07-17_43_37-Trade.Scanner.png)
+![](/assets/images/2019-07-07-17_43_37-Trade.Scanner.png)
 
 Blazor components are encoded without namespaces, it means **@addTagHelper** and **@using** statements are in place and working.
